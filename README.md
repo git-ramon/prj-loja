@@ -53,3 +53,40 @@ Prj-Loja/
 ```
 
 
+
+## Instalação e execução
+
+### Pré-requisitos
+
+- [Node.js](https://nodejs.org/) instalado.
+- Git instalado.
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/git-ramon/prj-loja.git
+```
+
+### 2. Acessar a pasta do projeto
+
+```bash
+cd prj-loja
+```
+
+### 3. Instalar as dependências
+
+```bash
+npm install
+```
+
+### 4. Iniciar o servidor
+
+```bash
+npm start
+```
+
+Após iniciar o servidor, acesse a aplicação pelo navegador:
+
+http://localhost:3000
+
+
