@@ -25,3 +25,31 @@ Aplicação web desenvolvida para gerenciamento de clientes, utilizando Node.js,
 - **Bcrypt** – Criptografia de senhas.
 - **Express Session** – Gerenciamento de sessões.
 
+
+
+
+## Estrutura do projeto
+
+```text
+Prj-Loja/
+│
+├── backend/
+│   ├── server.js
+│   └── criar-admin.js
+│
+├── public/
+│   ├── css/
+│   ├── js/
+│   ├── img/
+│   ├── Admin.html
+│   ├── Clientes.html
+│   ├── Home.html
+│   └── Login.html
+│
+├── Loja.db
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+
